@@ -1,16 +1,16 @@
-# bmi
+# About the App
 
-A new Flutter application.
+This app is easy to use, it caculate body mass for any person depend on height and weight, determine if you need to do exercises or not. 
+# App Design
 
-## Getting Started
+<img src="shots/Screenshot_20200908-201956.png" width= 250 height=450>
 
-This project is a starting point for a Flutter application.
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="shots/Screenshot_20200908-202014.png" width= 250 height=450>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
